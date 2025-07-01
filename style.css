@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(141, 33, 42);
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: bottom 100px;
+}
+
+header {
+    border-bottom: solid 2px; slategray 2px;
+    padding: 20px;
+    font-size: 30px;
+    color: azure;
+
+}
+
+section {
+    background-color: aliceblue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
